@@ -1,0 +1,14 @@
+layout_spectrum: 0.9229391
+color:
+  saturation: 0.3215843
+  lightness: 0.3082437
+  brandStrength: 1
+  brandColors:
+    - '#F3FFFF'
+    - '#A2B9CB'
+    - '#0D1323'
+    - '#798D9C'
+    - '#2A3E5A'
+  rhythmicContrast: 0.6666667
+typography_spectrum: 0.2759857
+name: ferursine
