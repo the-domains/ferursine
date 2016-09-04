@@ -1,14 +1,26 @@
-layout_spectrum: 0.9229391
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3215843
-  lightness: 0.3082437
   brandStrength: 1
+  rhythmicContrast: 0.6666667
   brandColors:
     - '#F3FFFF'
     - '#A2B9CB'
     - '#0D1323'
     - '#798D9C'
     - '#2A3E5A'
-  rhythmicContrast: 0.6666667
-typography_spectrum: 0.2759857
+  lightness: 0.3082437
+typography_spectrum: 0.4569893
+layout_spectrum: 0.9229391
 name: ferursine
